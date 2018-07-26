@@ -1,3 +1,6 @@
+/* Shontinique Uqdah
+ * 07/24/2018
+ */
 package co.grandcircus.Lab8;
 
 import java.util.InputMismatchException;
